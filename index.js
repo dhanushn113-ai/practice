@@ -5,3 +5,5 @@ if(a > 4){
 }else{
     console.log("Anbu")
 }
+console.log("This is javascript");
+a
