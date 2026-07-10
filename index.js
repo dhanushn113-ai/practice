@@ -9,3 +9,7 @@ console.log("This is javascript");
 a
 let name = 'Anbu';
 console.log(name);
+<<<<<<< HEAD
+=======
+console.log("preethi");
+>>>>>>> a1c3bfbc09699a26326a847e0b9f604f872c89c5
