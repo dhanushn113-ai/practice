@@ -7,3 +7,5 @@ if(a > 4){
 }
 console.log("This is javascript");
 a
+let name = 'Anbu';
+console.log(name);
